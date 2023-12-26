@@ -25,6 +25,7 @@ validate the html and css code
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -257,6 +258,7 @@ body {
   font-size: 2.5rem;
 }
 </style>
+~~~
 
 ## OUTPUT:
 ![WhatsApp Image 2023-12-26 at 16 03 57_73f60180](https://github.com/BHARATHI20MK/standard-calculator/assets/147474125/24721512-a802-42ce-a42d-dfb56bfe1f79)
