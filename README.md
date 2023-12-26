@@ -261,7 +261,7 @@ body {
 ~~~
 
 ## OUTPUT:
-![calc](https://github.com/BHARATHI20MK/standard-calculator/assets/147474125/c215c4c8-521d-45ca-8e85-1eab76c6d09b)
+![calc](https://github.com/BHARATHI20MK/standard-calculator/assets/147474125/94615a96-e686-450f-890a-a91f24c62a82)
 
 
 
