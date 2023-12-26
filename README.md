@@ -261,8 +261,7 @@ body {
 ~~~
 
 ## OUTPUT:
-![calc](https://github.com/BHARATHI20MK/standard-calculator/assets/147474125/94615a96-e686-450f-890a-a91f24c62a82)
-
+![WhatsApp Image 2023-12-26 at 16 03 56_0d0ba744](https://github.com/BHARATHI20MK/standard-calculator/assets/147474125/9d9cbe8b-76d1-4453-a1f3-c36a6512a446)
 
 
 ## Result:
