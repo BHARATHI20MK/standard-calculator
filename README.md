@@ -262,7 +262,7 @@ body {
 
 ## OUTPUT:
 
-![git](https://github.com/BHARATHI20MK/standard-calculator/assets/147474125/c231af29-4fcf-4195-91e5-96112f14c7a3)
+![WhatsApp Image 2023-12-27 at 01 58 04_d7217a67](https://github.com/BHARATHI20MK/standard-calculator/assets/147474125/fdee131a-54f7-4e7d-9568-79197891fec0)
 
 ## Result:
 the standard calculator has been created succesfully
